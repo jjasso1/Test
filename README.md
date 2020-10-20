@@ -22,7 +22,7 @@ The powerful minds that brought this project to life are as follows
 
 We studied analyzed and used  massive data and powerful machine learning technologies on the dating behaviors from a speed dating datasets where we generated random matching of subjects and created models that gives us a return on a perfect match. Moreover, the data visualizations will shock you on what truly men and women really consider as a perfect match. 
 
-Sketch:
+## Sketch:
 ![Dating](Dating_interests_of_ideal_partners.png)
 
 https://proj3team12.herokuapp.com/
